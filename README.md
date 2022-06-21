@@ -1,6 +1,6 @@
 # twitterCloneProvider
 
-A twitter clone made using React-native, Providers and Contexts all coupled with a working Nodejs server.
+A twitter clone made using React-native,MongoDB Providers and Contexts all coupled with a working Nodejs server.
 
 ## Landing Page
  [![Screenshot-20220411-122245.jpg](https://i.postimg.cc/2ysbFC63/Screenshot-20220411-122245.jpg)](https://postimg.cc/GTjmbwv1)
